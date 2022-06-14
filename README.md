@@ -1,5 +1,5 @@
 # 3D_Poisson_Solver
-在地形存在的條件下，給定邊界條件及FD、FB，求解三維Poisson Equation。並使用successive over-relaxation(SOR)加速迭代。
+在地形存在的條件下，給定邊界條件及FD、FB，求解三維Poisson Equation；並使用successive over-relaxation(SOR)加速迭代。
 
 執行以下以產生.so檔：
 ```
