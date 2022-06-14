@@ -6,6 +6,7 @@
 f2py -m poisson_ter -c poisson_ter.f95 --opt=-O3
 ```
 
+
 於Python程式碼中以
 ```
 from poisson_ter import poisson3d_solver_sor
